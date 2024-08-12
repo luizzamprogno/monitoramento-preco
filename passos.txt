@@ -1,0 +1,5 @@
+1 - acessar o site
+2 - pesquisar pelo produto
+3 - coletar e armazenar a informação de preço do produtos
+4 - atualizar uma planilha com nome do produto, data atual da consulta, preço e link para o produto
+5 - agendar a tarefa com intervalo de 30 minutos
